@@ -1,7 +1,8 @@
 # REACT Application
-## MongoDB | Express | Nodejs | Reactjs
+## MongoDB | Express | Nodejs | Reactjs => MERN Development
 ## Bootstrap | Javascript | VS Code
-Open Source Code 
+
+
 _______________________________________
 # Getting Started with Create React App
 
